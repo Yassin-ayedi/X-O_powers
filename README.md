@@ -1,6 +1,6 @@
 # ⚡ X/O Powers
 ### A Modern Tic-Tac-Toe Game
-
+![Game Demo](demo.gif)
 ---
 
 # 🎮 The Classic Game
