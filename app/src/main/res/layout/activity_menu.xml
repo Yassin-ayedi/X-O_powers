@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/bg_dark"
+    android:padding="32dp">
+
+    <!-- Logo / Title -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="⚡"
+        android:textSize="72sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="XO POWERS"
+        android:textSize="42sp"
+        android:textStyle="bold"
+        android:textColor="@color/accent_yellow"
+        android:letterSpacing="0.15"
+        android:layout_marginBottom="4dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tic-Tac-Toe with Superpowers!"
+        android:textSize="16sp"
+        android:textColor="#AAAAAA"
+        android:layout_marginBottom="64dp"/>
+
+    <!-- Play Button -->
+    <Button
+        android:id="@+id/btnPlay"
+        android:layout_width="240dp"
+        android:layout_height="60dp"
+        android:text="⚔ PLAY"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:backgroundTint="@color/accent_red"
+        android:textColor="@color/white"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- How to Play Button -->
+    <Button
+        android:id="@+id/btnHowTo"
+        android:layout_width="240dp"
+        android:layout_height="60dp"
+        android:text="📖 HOW TO PLAY"
+        android:textSize="16sp"
+        android:backgroundTint="@color/accent_blue"
+        android:textColor="@color/white"
+        android:layout_marginBottom="48dp"/>
+
+    <!-- Version -->
+    <TextView
+        android:id="@+id/tvVersion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#555555"
+        android:textSize="12sp"/>
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.xopowers.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.xopowers.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.xopowers.app-merged_res-31:/drawable_cell_frozen.xml.flat",
+        "source": "com.example.xopowers.app-main-33:/drawable/cell_frozen.xml"
+    },
+    {
+        "merged": "com.example.xopowers.app-merged_res-31:/layout_activity_menu.xml.flat",
+        "source": "com.example.xopowers.app-main-33:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.example.xopowers.app-merged_res-31:/drawable_player_banner_bg.xml.flat",
+        "source": "com.example.xopowers.app-main-33:/drawable/player_banner_bg.xml"
+    },
+    {
+        "merged": "com.example.xopowers.app-merged_res-31:/drawable_cell_bg.xml.flat",
+        "source": "com.example.xopowers.app-main-33:/drawable/cell_bg.xml"
+    },
+    {
+        "merged": "com.example.xopowers.app-merged_res-31:/drawable_cell_filled.xml.flat",
+        "source": "com.example.xopowers.app-main-33:/drawable/cell_filled.xml"
+    },
+    {
+        "merged": "com.example.xopowers.app-merged_res-31:/layout_activity_game.xml.flat",
+        "source": "com.example.xopowers.app-main-33:/layout/activity_game.xml"
+    }
+]

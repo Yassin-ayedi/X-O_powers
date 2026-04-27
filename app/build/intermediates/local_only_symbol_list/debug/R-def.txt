@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color accent_blue
+color accent_red
+color accent_teal
+color accent_yellow
+color bg_card
+color bg_dark
+color cell_bg
+color cell_filled
+color cell_frozen
+color white
+drawable cell_bg
+drawable cell_filled
+drawable cell_frozen
+drawable ic_launcher_foreground
+drawable player_banner_bg
+id boardGrid
+id btnHowTo
+id btnPlay
+id btnPower0
+id btnPower1
+id btnPower2
+id btnQuit
+id tvCurrentPlayer
+id tvPowerInfo
+id tvRound
+id tvScore
+id tvVersion
+layout activity_game
+layout activity_menu
+string app_name
+style PowerDialog
+style Theme.XOPowers
